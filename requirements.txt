@@ -4,3 +4,4 @@ opencv-python-headless
 Pillow==9.4.0
 streamlit==1.12.2
 streamlit_option_menu==0.3.2
+tempfile
