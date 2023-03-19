@@ -15,5 +15,5 @@ The technology has been used in a variety of applications, such as virtual try-o
 
 ![Dashboar Screenshot](https://github.com/mBohunickaCharles/Face_Mesh_app/blob/main/face_mesh_app.png)
 
-#### Author:
-@mBohunickaCharles
+
+
